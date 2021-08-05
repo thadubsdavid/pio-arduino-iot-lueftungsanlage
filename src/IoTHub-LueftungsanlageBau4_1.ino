@@ -8,7 +8,7 @@
 #include <stdarg.h>
 #include <SPI.h>
 /*
-// some test comment
+// some test 
 // are we compiling against the Arduino MKR1000
 #if defined(ARDUINO_SAMD_MKR1000) && !defined(WIFI_101)
 #include <WiFi101.h>
